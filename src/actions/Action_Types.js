@@ -1,0 +1,2 @@
+export const SEARCH_VIDEO = 'SEARCH_VIDEO';
+export const ON_VIDEO_SELECT = 'ON_VIDEO_SELECT';
